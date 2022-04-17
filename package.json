@@ -1,0 +1,22 @@
+{
+  "name": "w3-upload",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "vyneer",
+  "license": "ISC",
+  "dependencies": {
+    "@ffprobe-installer/ffprobe": "^1.4.1",
+    "get-video-duration": "3.0.2",
+    "minimist": "^1.2.5",
+    "moment": "^2.29.2",
+    "sqlite": "^4.0.25",
+    "sqlite3": "^5.0.2",
+    "web3.storage": "latest"
+  }
+}
