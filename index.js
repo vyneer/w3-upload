@@ -69,6 +69,7 @@ async function main () {
       "validate_file": false, 
       "optimize_file": false, 
       "author": "Destiny",
+      "description": `${startTime.toISOString().slice(0,-5) + "Z"}\n${endTime.toISOString().slice(0,-5) + "Z"}`,
       "tags": [
         "destiny",
         "streamer",
